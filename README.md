@@ -11,4 +11,4 @@ link: [GitHub - zalandoresearch/fashion-mnist: A MNIST-like fashion product data
  fructe singulare
 link: https://www.kaggle.com/datasets/moltean/fruits
 
-Mai multe detalii despre implementare si analiza rezultatelor se afla in cele 2 fisiere .ipynb si .pdf
+Mai multe detalii despre implementare și analiza rezultatelor se află în cele 2 fișiere .ipynb și .pdf
